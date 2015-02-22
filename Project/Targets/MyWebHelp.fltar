@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment=""
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/MasterPages/KB_Master_Page.flmsp"
+  ReplaceSpacesWithUnderscores="false"
+  MakeFileLowerCase="false"
+  ConditionTagExpression="exclude[Default.PrintOnly or Default.ScreenOnly] "
+  AliasFile="/Project/Advanced/MyAliasFile.flali"
+  GenerateAllSkins="false"
+  Skin="/Project/Skins/Default.flskn"></CatapultTarget>

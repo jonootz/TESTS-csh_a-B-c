@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="Child" Link="/Content/How To Use Template.htm" />
+    <Map Name="Child1" Link="/Content/KB Topic Template.htm" />
+    <Map Name="Child2" Link="/Content/Welcome.htm" />
+    <Map Name="Child3" Link="/Content/Products/Product A/Article 1.htm" />
+    <Map Name="Child4" Link="/Content/Products/Product A/Article 2.htm" />
+    <Map Name="Child5" Link="/Content/Products/Product A/Article 3.htm" />
+    <Map Name="Child6" Link="/Content/Sample Topics/Editing the Master Page.htm" />
+    <Map Name="Child7" Link="/Content/Sample Topics/How to Change the Logo in the Skin.htm" />
+</CatapultAliasFile>

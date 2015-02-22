@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ReplaceSpacesWithUnderscores="true"
+  MakeFileLowerCase="true"
+  ConditionTagExpression="exclude[Default.PrintOnly] ">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>
