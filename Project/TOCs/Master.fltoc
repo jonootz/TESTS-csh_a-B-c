@@ -23,18 +23,7 @@
       Link="/Content/Products/Product A/Article 3.htm" />
   </TocEntry>
   <TocEntry
-    Title="GrandChild"
-    Link="../../../CSHGrandChild1/CSHGrandChild1.flprj#Webby/HTML5boy"
-    conditions="Default.ScreenOnly"
-    AbsoluteLink="file:///C:/Documents and Settings/jwulkowicz/Desktop/TestProjects/!CSH Test Projects/CSHGrandChild1/CSHGrandChild1.flprj#Webby/HTML5boy"></TocEntry>
-  <TocEntry
-    Title="GrandChildLinux"
-    Link="../../../CSHGrandChild1/CSHGrandChild1.flprj#Webby/LinuxGrand"
-    conditions="Default.PrintOnly"
-    AbsoluteLink="file:///C:/Documents and Settings/jwulkowicz/Desktop/TestProjects/!CSH Test Projects/CSHGrandChild1/CSHGrandChild1.flprj#Webby/LinuxGrand" />
-  <TocEntry
-    Title="GrandChildWH1"
-    conditions="Default.Not Ready for Publish"
-    Link="../../../CSHGrandChild1/CSHGrandChild1.flprj#MyWebHelp"
-    AbsoluteLink="file:///C:/Documents and Settings/jwulkowicz/Desktop/TestProjects/!CSH Test Projects/CSHGrandChild1/CSHGrandChild1.flprj#MyWebHelp" />
+    Title="GRandChild"
+    Link="../../../CSHGrandChild1/CSHGrandChild1.flprj"
+    AbsoluteLink="file:///C:/GIT/CSHGrandChild1/CSHGrandChild1.flprj" />
 </CatapultToc>
